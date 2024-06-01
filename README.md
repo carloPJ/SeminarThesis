@@ -1,0 +1,7 @@
+In the course of my bachelor program "Business Informatics B.Sc." at the University of Passau, I was lucky to participate in two bachelor seminars of the topic "Management Science / Operations Research". 
+
+First seminar thesis:
+Randomized online algorithms mitigate worst-case scenarios by introducing probabilistic decision-making, which averages out costs and reduces the impact of worst-case inputs. In the ski-rental problem, for example, randomizing the purchase decision can lower the competitive ratio from 2 to approximately 1.58. This approach extends to other dynamic decision problems, providing robustness and better performance under uncertainty. Grade: 1.3
+
+Second seminar thesis: 
+The second seminar thesis cannot be uploaded since it was in collaboration with ZF. I participated in the seminar "Data Science and Optimization" and covered the topic "Potential savings through energy and process optimization in automated storage systems". In my seminar thesis, I explored the optimization of warehouse processes, focusing on the current state and functionality of automatic small parts warehouses (ASPW) and automated storage and retrieval systems (AS/RS). The thesis includes a mathematical definition and numerical example of an optimization problem, with considerations for efficient item placement, and evaluates the impact of incorporating weight analysis on stock availability and process duration.
